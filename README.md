@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Charlotte!
+# Hi there 👋 I'm Charlotte!
+[![Linkedin Badge](https://img.shields.io/badge/-charlottehby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/charlottehby/)](https://www.linkedin.com/in/charlottehby/)
 
 <!--
 **charchiveDB/charchiveDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
