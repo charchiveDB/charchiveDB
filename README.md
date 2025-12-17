@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Charlotte!
-[![Linkedin Badge](https://img.shields.io/badge/-charlottehby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/charlottehby/)](https://www.linkedin.com/in/charlottehby/)[![Instagram Badge](https://img.shields.io/badge/%40hby.char-pink?link=https%3A%2F%2Fwww.instagram.com%2Fhby.char%2F)) 
+[![Linkedin Badge](https://img.shields.io/badge/-charlottehby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/charlottehby/)](https://www.linkedin.com/in/charlottehby/)[![Instagram Badge](https://img.shields.io/badge/%40hby.char-pink?link=https://www.instagram.com/hby.char/) 
 
 <!--
 **charchiveDB/charchiveDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
