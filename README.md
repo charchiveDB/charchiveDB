@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me :)
-I am currently a 3rd year at UCSB studying Statistic and Data Science & Biochemistry--Molecular Biology. I am most excited to face the intersection between technology and biology/medicine through developing machine learning and AI models in order to expand the possibilities of human capabilities. Overall, I am driven to build technical skills that enhance human life in meaningful ways, whether through direct biological applications or broader technological innovations. 
+I am currently a 4th year at UCSB studying Statistic and Data Science & Biochemistry--Molecular Biology. I am most excited to face the intersection between technology and biology/medicine through developing machine learning and AI models in order to expand the possibilities of human capabilities. Overall, I am driven to build technical skills that enhance human life in meaningful ways, whether through direct biological applications or broader technological innovations. 
 
 
 
